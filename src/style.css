@@ -1,0 +1,27 @@
+body {
+  background-color: blanchedalmond;
+}
+h2 {
+  text-align: center;
+}
+p {
+  background-color: white;
+  text-align: center;
+}
+a {
+  color: black;
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+}
+.index-photo {
+  width: 500px;
+  display: block;
+  border-radius: 10px;
+}
+.croissant-photo {
+  width: 500px;
+  display: block;
+  border-radius: 5px;
+}
