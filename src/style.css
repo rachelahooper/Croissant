@@ -1,11 +1,11 @@
 body {
   background-color: blanchedalmond;
 }
+h1,
 h2 {
   text-align: center;
 }
 p {
-  background-color: white;
   text-align: center;
 }
 a {
@@ -16,10 +16,10 @@ a:hover {
   text-decoration: none;
 }
 .index-photo {
-  width: 500px;
+  width: 375px;
   display: block;
   border-radius: 10px;
-  margin: 10px;
+  margin: 10px auto;
 }
 .croissant-photo {
   width: 500px;
